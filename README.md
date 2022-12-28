@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/DanielRezez">
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=DanielRezez&show_icons=true&theme=dracula&include_all_commits=true&cont_private=true"/>
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRezez&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="120cm" src="https://github-readme-stats.vercel.app/api?username=DanielRezez&show_icons=true&theme=dracula&include_all_commits=true&cont_private=true"/>
+  <img height="120cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRezez&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
