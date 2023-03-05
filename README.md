@@ -1,8 +1,7 @@
 ## Fala aí! Aqui é o Daniel
 
-- 👀 Atualmente meu foco é em desenvolvimento web
-- 🌱 Ando estudando HTML, CSS, Javascript e React
-- 💞️ Meu propósito, por enquanto, é de construir um bom repertório inicial
+- 👀 Sou estudante de Tecnologia da Informação (TI) e, no momento, tenho focado na área de desenvolvimento para "web"
+- 🌱 Por enquanto,tenho conhecimento básico apenas de HTML e CSS
 
 <div>
   <a href="https://github.com/DanielRezez">
