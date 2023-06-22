@@ -5,15 +5,13 @@
 
 <div>
   <a href="https://github.com/DanielRezez">
-  <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=DanielRezez&show_icons=true&theme=dracula&include_all_commits=true&cont_private=true"/>
-  <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRezez&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=DanielRezez&show_icons=true&theme=dracula&include_all_commits=true&cont_private=true"/>
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRezez&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Daniel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
   
   ##
  
