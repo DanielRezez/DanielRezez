@@ -3,10 +3,10 @@
 - 👀 Sou estudante de Tecnologia da Informação (TI) e, no momento, tenho focado na área de desenvolvimento para "web"
 - 🌱 Por enquanto,tenho conhecimento básico apenas de HTML e CSS
 
-<div>
+<div align="center">
   <a href="https://github.com/DanielRezez">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=DanielRezez&show_icons=true&theme=dracula&include_all_commits=true&cont_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRezez&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielRezez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRezez&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
