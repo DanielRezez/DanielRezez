@@ -1,7 +1,6 @@
-## Fala aí! Aqui é o Daniel
+## Olá! 👋 Daniel aqui
 
-- 👀 Sou estudante de Tecnologia da Informação (TI) e, no momento, tenho focado na área de desenvolvimento para "web"
-- 🌱 Por enquanto,tenho conhecimento básico apenas de HTML e CSS
+Seja bem vindo ao meu GitHub! Meu nome é Daniel Rezez, brasileiro de 20 anos, estudante de Tecnologia em Sistemas para Internet no [Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal Zona Leste](https://portal.ifrn.edu.br/campus/natalzonaleste/) e desenvolvedor Front-End em formação. 
 
 <div align="center">
   <a href="https://github.com/DanielRezez">
