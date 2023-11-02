@@ -1,6 +1,6 @@
 ## Olá! 👋 Daniel aqui
 
-Seja bem vindo ao meu GitHub! Meu nome é Daniel Rezez, brasileiro de 20 anos, estudante de Tecnologia em Sistemas para Internet no [Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal Zona Leste](https://portal.ifrn.edu.br/campus/natalzonaleste/) e desenvolvedor Front-End em formação. 
+Seja bem vindo ao meu GitHub! Meu nome é Daniel Rezez, brasileiro de 21 anos de idade, estudante de Tecnologia em Sistemas para Internet no [Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal Zona Leste](https://portal.ifrn.edu.br/campus/natalzonaleste/) e desenvolvedor Front-End em formação.
 
 <div align="center">
   <a href="https://github.com/DanielRezez">
