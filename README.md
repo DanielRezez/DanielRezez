@@ -1,6 +1,6 @@
-## Olá! 👋 Daniel aqui
+## Fala, fella! 👋 Tudo bem?
 
-Seja bem vindo ao meu GitHub! Meu nome é Daniel Rezez, brasileiro de 21 anos de idade, estudante de Tecnologia em Sistemas para Internet no [Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal Zona Leste](https://portal.ifrn.edu.br/campus/natalzonaleste/) e desenvolvedor Front-End em formação.
+Seja bem vindo ao meu GitHub! Meu nome é Daniel Rezez, tenho 22 anos e sou estudante do curso de Tecnologia em Sistemas para Internet no [Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal Zona Leste](https://portal.ifrn.edu.br/campus/natalzonaleste/). Atualmente, sou um desenvolvedor Back-End em formação e você pode conferir as tecnologias com que trabalhei logo abaixo! Além de, claro, os projetos em que cada uma foi usada.
 
 <div align="center">
   <a href="https://github.com/DanielRezez">
@@ -12,6 +12,9 @@ Seja bem vindo ao meu GitHub! Meu nome é Daniel Rezez, brasileiro de 21 anos de
   <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Daniel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Daniel-VUE" height="30 width="40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg">
+  <img align="center" alt="Daniel-VUE" height="30 width="40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Daniel-VUE" height="30 width="40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
 </div>
  
 <div><br> 
