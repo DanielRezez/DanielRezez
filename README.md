@@ -12,9 +12,10 @@ Seja bem vindo ao meu GitHub! Meu nome é Daniel Rezez, tenho 22 anos e sou estu
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="VUE" height="30 width="40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+  <img align="center" alt="VUE" height="30 width="40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="PYTHON" height="30 width="40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="DJANGO" height="30 width="40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+  <img align="center" alt="DJANGO" height="30 width="40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg">
+  <img align="center" alt="DJANGO-REST" height="30 width="40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg">
 </div>
  
 <div><br> 
