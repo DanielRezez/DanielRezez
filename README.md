@@ -1,4 +1,5 @@
-# 🤓☝️ Daniel Rezez
+# ![cat-spinning](https://github.com/user-attachments/assets/fc884cc5-eb61-4ed5-83c3-bc570255a270)
+ Daniel Rezez
 
 **`Desenvolvedor FullStack`**
 
