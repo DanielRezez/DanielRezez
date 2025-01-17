@@ -5,7 +5,7 @@
 
 ### Bom dia, fella! Tudo bem?
 
-Seja bem vindo ao meu GitHub! Meu nome é Daniel Rezez, tenho 22 anos e sou estudante do curso de Tecnologia em Sistemas para Internet no [Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal Zona Leste](https://portal.ifrn.edu.br/campus/natalzonaleste/). Atualmente, sou um desenvolvedor Back-End em formação e você pode conferir as tecnologias com que trabalhei logo abaixo! Além de, claro, os projetos em que cada uma foi usada.
+Seja bem vindo ao meu GitHub! Meu nome é Daniel Rezez, tenho 22 anos e sou estudante do curso de Tecnologia em Sistemas para Internet no [Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal Zona Leste](https://portal.ifrn.edu.br/campus/natalzonaleste/). Atualmente, sou um desenvolvedor Full-Stack em formação e você pode conferir as tecnologias com que trabalhei logo abaixo! Além de, claro, os projetos em que cada uma foi usada.
 
 <div><br> 
   <a href="https://www.linkedin.com/in/daniel-rezez-293740207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
