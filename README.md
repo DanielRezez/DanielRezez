@@ -16,24 +16,26 @@ Seja bem vindo ao meu GitHub! Meu nome é Daniel Rezez, tenho 22 anos e sou estu
 ---
 
 ### 👾 Linguagens e Tecnologias
+
 <div align="center">
   <img align="left" alt="HTML" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="CSS" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="left" alt="JS" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="left" alt="VUE" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
   <img align="left" alt="PYTHON" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="left" alt="DJANGO" height=60 width=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg">
+  <img align="left" alt="DJANGO" height=30 width=30 src="https://avatars.githubusercontent.com/u/27804?s=200&v=4">
   <img align="left" alt="GIT" height=30 width=40 src="https://camo.githubusercontent.com/80ee24b2f1d1758eeeaa65bc396e11aef6d39a394edc5c8925e2e04a5b5d3297/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6769742f6769742d6f726967696e616c2e737667">
 </div>
 
----
+<br>
+<br>
 
 ### 📊 Histórico
 
 <div align="center">
   <a href="https://github.com/DanielRezez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielRezez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRezez&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielRezez&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"/>
 </div>
 
 
