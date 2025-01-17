@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/fc884cc5-eb61-4ed5-83c3-bc570255a270" height=30 width="40" /> Daniel Rezez
+# <img src="https://github.com/user-attachments/assets/fc884cc5-eb61-4ed5-83c3-bc570255a270" height=45 width="55" /> Daniel Rezez
 
 
 **`Desenvolvedor FullStack`**
