@@ -1,4 +1,5 @@
-# <img src="https://64.media.tumblr.com/c4de71991b94c6c217f07d30ce93fa79/2307b7cdf26d331a-b7/s400x600/2f213e59e1ba397b1c73d808f35867b2a8cd54cc.gif" width=60; height=60;/> Daniel Rezez
+### <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" >
+# <img src="https://64.media.tumblr.com/c4de71991b94c6c217f07d30ce93fa79/2307b7cdf26d331a-b7/s400x600/2f213e59e1ba397b1c73d808f35867b2a8cd54cc.gif" width="60" height="60"/> Daniel Rezez
 
 
 **`Desenvolvedor FullStack`**
@@ -28,7 +29,8 @@ Seja bem vindo ao meu GitHub! Meu nome é Daniel Rezez, tenho 22 anos e sou estu
     <img alt="git" height="30" width="40" src="https://camo.githubusercontent.com/80ee24b2f1d1758eeeaa65bc396e11aef6d39a394edc5c8925e2e04a5b5d3297/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6769742f6769742d6f726967696e616c2e737667">
     <img alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   </section>
-  
+  ![ezgif com-crop](https://github.com/user-attachments/assets/923e255d-6f88-45f2-8e1b-b864b7704142)
+
   <!-- O GitHub Stats fica abaixo, com um pequeno espaço -->
   <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRezez&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </div>
