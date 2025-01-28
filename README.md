@@ -1,4 +1,4 @@
-# <img src="https://i.redd.it/9jbtd25pgss71.gif" height=30 width="45" /> Daniel Rezez
+# <img src="https://64.media.tumblr.com/c4de71991b94c6c217f07d30ce93fa79/2307b7cdf26d331a-b7/s400x600/2f213e59e1ba397b1c73d808f35867b2a8cd54cc.gif" width=60; height=60;/> Daniel Rezez
 
 
 **`Desenvolvedor FullStack`**
@@ -17,7 +17,7 @@ Seja bem vindo ao meu GitHub! Meu nome é Daniel Rezez, tenho 22 anos e sou estu
 
 ### 👾 Linguagens e Tecnologias
 
-<div align="left" style="display: flex; flex-direction: column;">
+<div align="left" style="display: flex; flex-direction: column; width: 60%">
   <section align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -31,6 +31,10 @@ Seja bem vindo ao meu GitHub! Meu nome é Daniel Rezez, tenho 22 anos e sou estu
   
   <!-- O GitHub Stats fica abaixo, com um pequeno espaço -->
   <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRezez&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+</div>
+
+<div align="right" style="display: flex; width: 40%">
+  <img alt="gif" src="https://media.tenor.com/PBcGjKppnacAAAAM/pixel-art.gif">
 </div>
 
 #
