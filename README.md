@@ -1,4 +1,4 @@
-### <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" >
+### <img src="banner.gif" width=100%>
 # <img src="https://64.media.tumblr.com/c4de71991b94c6c217f07d30ce93fa79/2307b7cdf26d331a-b7/s400x600/2f213e59e1ba397b1c73d808f35867b2a8cd54cc.gif" width="60" height="60"/> Daniel Rezez
 
 
@@ -35,18 +35,14 @@ Seja bem vindo ao meu GitHub! Meu nome é Daniel Rezez, tenho 22 anos e sou estu
   <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRezez&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </div>
 
-<div align="right" style="display: flex; width: 40%">
-  <img alt="gif" src="https://media.tenor.com/PBcGjKppnacAAAAM/pixel-art.gif">
-</div>
-
-#
-
 ### 📊 Histórico
 <p>
   <img align="left" alt="github-stats" height="200" style="margin-right: 30px;" src="https://github-readme-stats.vercel.app/api?username=DanielRezez&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 </p>
 
 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9B9B9B&height=130&section=footer"/>
 
 <!---
 DanielRezez/DanielRezez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
