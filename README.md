@@ -2,11 +2,11 @@
 # <img src="https://64.media.tumblr.com/c4de71991b94c6c217f07d30ce93fa79/2307b7cdf26d331a-b7/s400x600/2f213e59e1ba397b1c73d808f35867b2a8cd54cc.gif" width="60" height="60"/> Daniel Rezez
 
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Backend`**
 
 ### Bom dia, fella! Tudo bem?
 
-Seja bem vindo ao meu GitHub! Meu nome é Daniel Rezez, tenho 22 anos e sou estudante do curso de Tecnologia em Sistemas para Internet no [Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal Zona Leste](https://portal.ifrn.edu.br/campus/natalzonaleste/). Atualmente, sou um desenvolvedor Full-Stack em formação e você pode conferir as tecnologias com que trabalhei logo abaixo! Além de, claro, os projetos em que cada uma foi usada.
+Seja bem vindo ao meu GitHub! Meu nome é Daniel Rezez, tenho 22 anos e sou estudante do curso de Tecnologia em Sistemas para Internet no [Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal Zona Leste](https://portal.ifrn.edu.br/campus/natalzonaleste/). Atualmente, sou um desenvolvedor Back-End em formação e você pode conferir as tecnologias com que trabalhei logo abaixo! Além de, claro, os projetos em que cada uma foi usada.
 
 <div><br> 
   <a href="https://www.linkedin.com/in/daniel-rezez-293740207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
