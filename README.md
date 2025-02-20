@@ -2,7 +2,7 @@
 # <img src="https://64.media.tumblr.com/c4de71991b94c6c217f07d30ce93fa79/2307b7cdf26d331a-b7/s400x600/2f213e59e1ba397b1c73d808f35867b2a8cd54cc.gif" width="60" height="60"/> Daniel Rezez
 
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor Back-end`**
 
 ### Bom dia, fella! Tudo bem?
 
