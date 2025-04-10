@@ -1,4 +1,4 @@
-### <img src="banner.gif" width=100%>
+![image](https://github.com/user-attachments/assets/ce3c74a4-b390-4a68-a35f-4582a910591b)### <img src="banner.gif" width=100%>
 # <img src="https://64.media.tumblr.com/c4de71991b94c6c217f07d30ce93fa79/2307b7cdf26d331a-b7/s400x600/2f213e59e1ba397b1c73d808f35867b2a8cd54cc.gif" width="60" height="60"/> Daniel Rezez
 
 
@@ -24,6 +24,7 @@ Seja bem vindo ao meu GitHub! Meu nome é Daniel Rezez, tenho 22 anos e sou estu
     <img alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img alt="vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
+    <img alt="php" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">
     <img alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img alt="django" height="30" width="30" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4">
     <img alt="git" height="30" width="40" src="https://camo.githubusercontent.com/80ee24b2f1d1758eeeaa65bc396e11aef6d39a394edc5c8925e2e04a5b5d3297/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6769742f6769742d6f726967696e616c2e737667">
