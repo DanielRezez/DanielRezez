@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/ce3c74a4-b390-4a68-a35f-4582a910591b)### <img src="banner.gif" width=100%>
-# <img src="https://64.media.tumblr.com/c4de71991b94c6c217f07d30ce93fa79/2307b7cdf26d331a-b7/s400x600/2f213e59e1ba397b1c73d808f35867b2a8cd54cc.gif" width="60" height="60"/> Daniel Rezez
+<img src="banner.gif" width=100%>
+<img src="https://64.media.tumblr.com/c4de71991b94c6c217f07d30ce93fa79/2307b7cdf26d331a-b7/s400x600/2f213e59e1ba397b1c73d808f35867b2a8cd54cc.gif" width="60" height="60"/> Daniel Rezez
 
 
 **`Desenvolvedor Back-end`**
